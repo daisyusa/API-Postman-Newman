@@ -35,4 +35,26 @@ curl -X DELETE \
   
 2: GET, POST, PUT, PATCH, DELETE, PING
 
+3: POSTMAN
+
+ (1) Collections
+ 
+ (2) Sharing
+ 
+ (3) Environment (Production and Local or any)
+ 
+ (4) Automation (JavaScript)
+ 
+ (5) Performance simulation
+ 
+ (6) Runner
+
+4: NEWMAN
+
+  (1) Command-line tool
+  
+  (2) CI/CD Integration(Jenkins example)
+
+ 
+
  
